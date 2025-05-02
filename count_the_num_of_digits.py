@@ -3,7 +3,7 @@ from math import*
 def count_digts(num):
     return int(log10(num)+1)
 
-n = count_digts(323535)
+n = count_digts(3235345464654645535345535464335)
 
 print(n)
 
