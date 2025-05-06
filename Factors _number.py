@@ -15,7 +15,6 @@
 # print(result)
 
 from math import sqrt
-from math import log
 
 n = 36
 result = []
